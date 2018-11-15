@@ -1,7 +1,7 @@
 public class  bubblesort {
 
 
-    public void main bubbleSort(int[] arr)
+    public void bubbleSort(int[] arr)
     {
 
         int swaps = 1;

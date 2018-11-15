@@ -9,7 +9,7 @@ public class Runner {
             game1.nextPlayer();
         }
         game1.printBoard();
-        System.out.println("Game Winner: Player" +  game1.gameOver());
+        System.out.println("Game Winner: Player " +  game1.gameOver());
 
 
     }
